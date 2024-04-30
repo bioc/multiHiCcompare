@@ -1,7 +1,7 @@
 Package: multiHiCcompare
 Title: Normalize and detect differences between Hi-C datasets when replicates 
   of each experimental condition are available
-Version: 1.22.0
+Version: 1.23.0
 Authors@R: c(
     person(given = "Mikhail",
            family = "Dozmorov",
